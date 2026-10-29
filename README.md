@@ -13,4 +13,4 @@ Disciplina: Programação Web
 
 ## Site publicado
 
-https://SEU-USUARIO.github.io/pweb-ts-estruturas/
+https://github.com/c4uxns/pweb-ts-estruturas.git
