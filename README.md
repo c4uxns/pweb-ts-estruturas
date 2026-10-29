@@ -1,6 +1,7 @@
 # Atividade: Estruturas em TypeScript
 
 Aluno(a): Cauan Alexandre Medeiros Pontes
+
 Disciplina: Programação Web
 
 ## Exercícios
